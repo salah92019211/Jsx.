@@ -1,0 +1,6 @@
+.profile-photo{
+    width: 30%;
+    margin: auto;
+    border: solid 10px rgb(0, 238, 255);
+    border-radius: 10px;
+}
